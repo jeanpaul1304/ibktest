@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([2],{193:function(e,o){e.exports={trackingId:"955544828848898048",status:!0,body:{data:{success:!0,paymentResult:[{success:!0,idLoan:28,feeCode:"027",feeAmount:170.19,operationCode:"0002951"},{success:!0,idLoan:28,feeCode:"028",feeAmount:170.19,operationCode:"0002953"},{success:!0,idLoan:28,feeCode:"029",feeAmount:170.19,operationCode:"0002955"}]}}}}}); 

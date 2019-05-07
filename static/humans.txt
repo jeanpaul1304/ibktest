@@ -1,0 +1,86 @@
+/* TEAM */
+
+  Backend Team Lead / Architecture: Alejandro Laban
+  Contact: @
+
+  Quality Analyst: Angel Córdova
+  Contact: @
+
+  Product Owner: Camila Navarro
+  Contact: @
+
+  Frontend Dev: Franco Queirolo
+  Contact: @
+
+  Quality Analyst: Gianmarco Peralta
+  Contact: @
+
+  Frontend Team Lead: Jean Paul Diaz
+  Contact: @jeanpaul1304
+
+  Frontend Dev: Jhonatan Urbina
+  Contact: @
+
+  Quality Team Lead: Jonathan Liñan
+  Contact: @
+
+  Frontend Team Lead: Jorge Suarez
+  Contact: @
+
+	Frontend Dev: Josue Arambide
+	Contact: @
+
+  Technical Lead: Juan D. Crisanto
+  Contact: @
+
+  Backend Dev: Juan Gabino
+  Contact: @
+
+  Quality Automation: Lizbeth Pino
+  Contact: @
+
+  Backend Dev / Architecture : Luis A. Quispe
+  Contact: @
+
+  Backend Team Lead: Luis Martinez
+  Contact: @
+
+  Data & Analitycs: Mabel Rodriguez
+  Contact: @
+
+  Quality Assurance: Maribel Salazar
+  Contact: @
+
+  Backend Dev / Management: Martin Manrique
+  Contact: @
+
+  Frontend Dev: Oscar Alvarado
+  Contact: @
+
+  Technical Product Owner: Pablo Tuesta
+  Contact: @
+
+  Backend Dev: Renato Vásquez
+  Contact: @
+
+  Scrum Master: Silvia Schang
+  Contact: @
+
+  Quality Analyst: Victor Herrera
+  Contact: @
+
+  Backend Dev: Victor Soriano
+  Contact: @
+
+/* THANKS */
+
+  Former team members:
+  Abhishek Agarwal (Architect), Oscar Castillo (Team Lead), Oscar Diaz (BE Dev), Zarela Rojas (QA),
+  Kelly Aldarete (QA), Orietta Mazuelos (PO), Diego Lanzara (UX), Keven Saldaña (FE Dev), Sebastian Yabiku (FE Dev),
+  Liz Barrera (Spok), Ronald Canchaya (BE), Liliana Oyola (PO)
+
+/* SITE */
+  BPI-X, Warhol2, Super BPI, etc
+	Last update:2018/08/08
+	Language: Castellano
+	Doctype:HTML5

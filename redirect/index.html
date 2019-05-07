@@ -1,0 +1,64 @@
+<!-- [BPI]  Build version: 2.0.3 - 3:52:44 PM  --> 
+ <!DOCTYPE html><html><head><title>Banca por Internet - Interbank</title><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=mobile-web-app-capable content=yes><meta name=viewport content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=no"></head><body><div id=app></div><script>function findUrlBpix (hashWarhol) {
+    var baseGoto = '#goto:'
+    var chunksHash = hashWarhol.split(baseGoto)
+    //url Warhol lowerCase
+    var mapUrl = {
+      'productos-para-ti/apertura-cuenta': 'OpenningAccount',
+      'productos': 'YourOffers',
+      'configuraciones': 'Configurations',
+      'perfil': 'Profile'
+    }
+    if (chunksHash[1]) {
+      return mapUrl[chunksHash[1].toLowerCase()]
+    }
+    return ''
+  }
+
+  function findVarAdobe (varAdobe) {
+    var baseVarAdobe = '?mcid='
+    var chunkSearch = varAdobe.split(baseVarAdobe)
+    if (chunkSearch[1]) {
+      return chunkSearch[1]
+    }
+    return ''
+  }
+
+  function getParameterByName(name) {
+    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+    results = regex.exec(location.search);
+    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+  }
+
+  function globalRedirect () {
+    var pathname = location.pathname
+    var origin = location.origin
+    var redirectBase = '/redirect/'
+    var loginBaseBpix = '/'
+    var hash = location.hash
+    var search = location.search
+    var total = ''
+    var params = []
+    if (pathname === redirectBase) {
+      total = origin + loginBaseBpix
+      var urlHash = findUrlBpix(hash)
+      var urlSearch = findVarAdobe(search)
+      var token = getParameterByName('accessid')
+      if (urlHash) {
+        params.push('goto=' + findUrlBpix(hash))
+      }
+      if (urlSearch) {
+        params.push('mcid=' + urlSearch)
+      }
+      if (token) {
+        params.push('accessid=' + token)
+      }
+      if (params.length > 0) {
+        total = total + '?' + params.join('&')
+      }
+      location.replace(total)
+    }
+  }
+
+  globalRedirect()</script></body></html> 

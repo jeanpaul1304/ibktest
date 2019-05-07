@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([10],{312:function(e,t){e.exports={trackingId:"1039557351717122048",status:!0,body:{data:{success:!0,paymentResult:[{success:!0,operationCode:"0001176",exchangeRate:0,index:"0",code:"00000018",expirationDate:"20170625",currency:"604",amount:10,totalAmount:1412,partial:!0,hasDefault:!1,defaultAmount:0,operationDate:"11 sep 2018",operationTime:"11:52"}]}}}}}); 

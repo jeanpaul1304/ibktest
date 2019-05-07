@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([106],{776:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={},n={},o={},c={};t.default={operations:{namespaced:!0,state:s,getters:n,actions:o,mutations:c}}}}); 

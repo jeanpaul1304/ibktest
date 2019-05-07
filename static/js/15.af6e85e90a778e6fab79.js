@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([15],{307:function(o,a){o.exports={trackingId:"968973707714232320",status:!0,body:{data:{organizations:[{organizationCode:"001",description:"Lanza tu estrella un techo para mi país"},{organizationCode:"002",description:"Amigos de ANIQUEM"},{organizationCode:"003",description:"Perú Champs"},{organizationCode:"004",description:"CARE PERU"}]}}}}}); 

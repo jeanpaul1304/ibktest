@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([6],{316:function(e,a){e.exports={trackingId:"960684968858140672",status:!0,body:{data:[{success:!0,applied:!1,tokenType:"F"},{success:!0,applied:!0,tokenType:"S",comment:"Hemos enviado una clave SMS al 96*****89 (Claro)"}]}}}}); 

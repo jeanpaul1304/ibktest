@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([20],{302:function(a,e){a.exports={trackingId:"963447022034092032",status:!0,body:{data:{types:[{id:"RECBIM",name:"Recarga de Billetera Móvil",ordinal:1}]}}}}}); 

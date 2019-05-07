@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([111],{761:function(t,a,e){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var i={wayOperation:"",typeAffiliate:"1",dataAdobe:""},o={},n={},f={wayOperation:function(t,a){var e=a.wayOperation,i=void 0===e?"":e;t.wayOperation=i},typeAffiliate:function(t,a){var e=a.typeAffiliate,i=void 0===e?"":e;t.typeAffiliate=i},dataAdobe:function(t,a){t.dataAdobe=a}};a.default={automaticPayment:{namespaced:!0,state:i,getters:o,actions:n,mutations:f}}}}); 

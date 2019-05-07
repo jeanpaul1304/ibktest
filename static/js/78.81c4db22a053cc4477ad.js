@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([78],{1627:function(n,e){},2246:function(n,e){n.exports={render:function(){var n=this,e=n.$createElement;return(n._self._c||e)("router-view")},staticRenderFns:[]}},832:function(n,e,t){var r=t(282)(t(1627),t(2246),null,null,null);n.exports=r.exports}}); 

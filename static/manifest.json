@@ -1,0 +1,24 @@
+{
+  "name": "Banca por Internet",
+  "short_name": "Interbank",
+  "lang": "es-ES",
+  "start_url": "https://bancaporinternetuat.interbank.pe/",
+  "display": "standalone",
+  "theme_color": "#009b3a",
+  "background_color": "#009b3a",
+  "icons": [
+    {
+      "src": "https://bancaporinternetuat.interbank.pe/static/images/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "https://bancaporinternetuat.interbank.pe/static/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "https://bancaporinternetuat.interbank.pe/static/images/logox2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

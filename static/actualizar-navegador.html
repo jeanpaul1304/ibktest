@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>Interbank</title>
+  <style>
+    /* just for old browser we make thrashy code*/
+    * {
+      text-align: center;
+      font-family: sans-serif;
+      color: #424242;
+    }
+    h3 {
+      margin-top: 40px;
+      color: #009B39;
+    }
+    a {
+      text-decoration: none;
+      color: black;
+      display: block;
+      padding: 5px 10px;
+    }
+    a:hover {
+      color: #00A94F;
+      background: #ddd;
+    }
+    span {
+      text-decoration: none;
+      font-size: 14px;
+    }
+    table{
+      margin: 29px auto;
+      border: 0;
+    }
+    img.browser-icon {
+      width: 60px;
+      height: 60px;
+      border: 0;
+      margin-bottom: 20px;
+    }
+    .chrome {
+      max-width: 230px;
+    }
+    .firefox {
+      max-width: 85%;
+    }
+    .edge {
+      max-width: 80%;
+    }
+    .table-wrap{
+      width: 100%;
+    }
+    .table-content-column{
+      width: 650px;
+    }
+    .table-content-column .title{
+      font-size: 23px;
+    }
+    .table-content-column .subtitle{
+      font-size: 16px;
+      margin: 0;
+    }
+    .table-content-column .subtitle-pharse{
+      font-size: 16px;
+      margin: 5px 0 0;
+    }
+    .table-content-column .action-button{
+      display: block;
+      width: 231px;
+      background: #009B3A;
+      color: #ffffff;
+      font-size: 12px;
+      padding: 12px;
+      border-radius: 5px;
+      margin: auto;
+    }
+    .table-content-column .browser-table{
+      width: 500px;
+      margin: 10px auto ;
+    }
+    .table-content-column .version{
+      font-size: 11px;
+      margin-top: 5px;
+    }
+    .main-image{
+      width: 230px;
+      height: 187px;
+    }
+  </style>
+</head>
+<body class="table-wrap">
+  <table>
+    <tbody>
+    <tr>
+      <td></td>
+      <td class="table-content-column">
+        <img src="/static/images/old-browser.png" class="main-image" alt="Actualiza tu navegador">
+        <h3 class="title">La versión de tu navegador no es compatible con la nueva Banca por Internet</h3>
+        <h5 class="subtitle">Actualiza tu navegador o descarga Interbank APP</h5>
+        <p class="subtitle-pharse">desde tu celular para seguir realizando tus operaciones.</p>
+        <table class="browser-table">
+          <tr>
+            <td>
+              <a href="https://www.mozilla.org/es-ES/firefox/new/" target="_blank" alt="Actualiza tu navegador">
+                <img class="browser-icon firefox" src="/static/images/firefox.png" class="" alt="Firefox"></img>
+                <br>
+                <span>Descargar</span>
+                <p class="version">A partir de la version 53+</p>
+              </a>
+            </td>
+            <td>
+              <a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank">
+                <img class="browser-icon chrome" src="/static/images/chrome.png" class="" alt="Chrome"></img>
+                <br>
+                <span>Descargar</span>
+                <p class="version">A partir de la version 50+</p>
+              </a>
+            </td>
+            <td>
+              <a href="http://windows.microsoft.com/es-419/internet-explorer/download-ie" target="_blank">
+                <img class="browser-icon edge" src="/static/images/edge.png" class="" alt="Edge"></img>
+                <br>
+                <span>Descargar</span>
+                <p class="version">A partir de la version 11+</p>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td></td>
+    </tr>
+    </tbody>
+  </table>
+</body>
+</html>

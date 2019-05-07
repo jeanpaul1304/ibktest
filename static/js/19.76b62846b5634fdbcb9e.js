@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([19],{303:function(a,n){a.exports={trackingId:"968579641633669120",status:!0,body:{data:{types:[{id:"PAGTPR",name:"Mi tarjeta Interbank",ordinal:1},{id:"PAGTIB",name:"Otra tarjeta Interbank",ordinal:2},{id:"PAGTCD",name:"Dinner",ordinal:2}]}}}}}); 

@@ -1,0 +1,2 @@
+// [BPI]  Build version: 2.0.3 - 3:52:44 PM  
+ webpackJsonp([9],{313:function(e,o){e.exports={errorCode:"string",errorMessage:"string",status:!0,body:{data:{paymentResult:{exchangeRate:3.251,operationCode:"45325",operationDate:"01 abr 2019",operationTime:"09:45",success:!0}}}}}}); 
